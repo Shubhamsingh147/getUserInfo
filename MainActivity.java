@@ -58,7 +58,7 @@ saveme.setOnClickListener(new Button.OnClickListener(){
         
         // Create URL string
 
-         String URL = "http://10.0.2.2/first/getUser.php?name=shubham&email=singh@gmail&user=singh147&pass=dig";
+         String URL = "http://shubhamsingh147.6te.net/getUser.php?name=shubham&email=singh@gmail&user=singh147&pass=dig";
 
         //Log.i("httpget", URL);
 
